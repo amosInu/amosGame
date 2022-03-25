@@ -1,0 +1,557 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 16276 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Paid/Bayat/Bayyat runner
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55883
+Successfully changed project path to: D:/Unity Projects/Paid/Bayat/Bayyat runner
+D:/Unity Projects/Paid/Bayat/Bayyat runner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 173.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Paid/Bayat/Bayyat runner/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002730 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 184.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.035 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003289 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 186.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.708 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3573 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.9 MB.
+System memory in use after: 139.9 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 4028.
+Total: 3.197400 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.155100 ms MarkObjects: 2.610300 ms  DeleteObjects: 0.146700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(371b12db45f1c804391d067a7cbc1cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(371b12db45f1c804391d067a7cbc1cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e5c5ee776c156d0bd5a0c5c579cd82') in 0.011379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 199.227531 seconds.
+  path: Assets/ObstacleBuildingSpawner.cs
+  artifactKey: Guid(4d8773094f43b234baac0d73191bea1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObstacleBuildingSpawner.cs using Guid(4d8773094f43b234baac0d73191bea1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032c012e9362c8bced0b9be9a27243fe') in 0.030341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.968035 seconds.
+  path: Assets/BuildingBehaviour.cs
+  artifactKey: Guid(68f3d93230e1ea747a1127029cc42f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BuildingBehaviour.cs using Guid(68f3d93230e1ea747a1127029cc42f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e487b547f7c5bd2f2cb7b0de2d303cf6') in 0.010649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.497398 seconds.
+  path: Assets/MainBuildingSpawner.cs
+  artifactKey: Guid(0bf46b00dd9b0d64999ae46219bd1eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainBuildingSpawner.cs using Guid(0bf46b00dd9b0d64999ae46219bd1eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613477906d0781aa32a08bf624a172e7') in 0.008797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 641.108420 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer1-1-2048x1024(1x)-New.prefab
+  artifactKey: Guid(80bf256137b47814bb23876576f83703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer1-1-2048x1024(1x)-New.prefab using Guid(80bf256137b47814bb23876576f83703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2581fa259b29c69fcd732ce9702fe55f') in 0.127205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.690129 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer2-1-1x.prefab
+  artifactKey: Guid(f79e8d6a762568a499b22e091423e9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer2-1-1x.prefab using Guid(f79e8d6a762568a499b22e091423e9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef8998c0dde18e52f00910dc19911df') in 0.139601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.688692 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer3-1-1x.prefab
+  artifactKey: Guid(2e000a6252d897449a1fbbebcf65807f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer3-1-1x.prefab using Guid(2e000a6252d897449a1fbbebcf65807f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3a694060c4fb566c9fc15e5a7eb020') in 0.118393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.671386 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer3-2-1x.prefab
+  artifactKey: Guid(fd8dbb4b931d3944bac5a516e5046cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer3-2-1x.prefab using Guid(fd8dbb4b931d3944bac5a516e5046cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5201824087f5b6a69f870e6371ede1') in 0.044544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.602294 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer3-3-1x.prefab
+  artifactKey: Guid(e0140282d61cb7740bc9e0998cb7df96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer3-3-1x.prefab using Guid(e0140282d61cb7740bc9e0998cb7df96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941f2426e8877cba7b927b26bc94acd3') in 0.061334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.010527 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer3-4-1x.prefab
+  artifactKey: Guid(c557e08a0c4091548bc59049d19afadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer3-4-1x.prefab using Guid(c557e08a0c4091548bc59049d19afadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd632bb7472946fd721abdd6e9b82d055') in 0.080527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.273685 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer1-2_1-2048x1024(1x)-New.prefab
+  artifactKey: Guid(b899b86f261927c4787b82c89a7fe6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer1-2_1-2048x1024(1x)-New.prefab using Guid(b899b86f261927c4787b82c89a7fe6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85964ab643cbf3bbf6ccf38fb629b3c3') in 0.144838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.671205 seconds.
+  path: Assets/Envir Prefabs/Autumn-tilecliffmid-256.prefab
+  artifactKey: Guid(f05b5b381de35c9478a97402c9c7d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-tilecliffmid-256.prefab using Guid(f05b5b381de35c9478a97402c9c7d1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9090b22135bdc62a27d230ede7518c') in 0.016124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.773467 seconds.
+  path: Assets/Envir Prefabs/obstacles
+  artifactKey: Guid(0792a26b5e3b52240af588c6aef6d009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles using Guid(0792a26b5e3b52240af588c6aef6d009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93df47abb06992e71d8255a87248c92e') in 0.006369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 107.233943 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab
+  artifactKey: Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab using Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bed9731df2594bedefbefb1ca870c8') in 0.130115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.763776 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab
+  artifactKey: Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab using Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cac0ad7d641743efbf9a6b91172b9a5') in 0.078969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.715628 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab
+  artifactKey: Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab using Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1182cf20ae524214b1e81569b82508e') in 0.013714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 272.375865 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(3f864c88e2d3ad04d92cc88be2325386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3f864c88e2d3ad04d92cc88be2325386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ae8641258ca9bf6a76b01c07f01306') in 0.026551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.329586 seconds.
+  path: Assets/Scripts/TilesSpawner.cs
+  artifactKey: Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TilesSpawner.cs using Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205ea9e71a3c1f549ceca85ed19950ff') in 0.043474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.826262 seconds.
+  path: Assets/Scripts/BackgroundSpawner.cs
+  artifactKey: Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BackgroundSpawner.cs using Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1457d0e9cc6ab5dac9cdd28392a4e764') in 0.008245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 194.739593 seconds.
+  path: Assets/Scripts/BackgroundSpawner.cs
+  artifactKey: Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BackgroundSpawner.cs using Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a374d4c4346d839aaa86440aed00991') in 0.002440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.124257 seconds.
+  path: Assets/Scripts/TilesSpawner.cs
+  artifactKey: Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TilesSpawner.cs using Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc05a12ff2f372a665760e23e9271648') in 0.001888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.663300 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(0a157a844bc08854c8aab5b452b46e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(0a157a844bc08854c8aab5b452b46e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132d55a8398a9c31e7324a071a492b92') in 0.006158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003460 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.0 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4043.
+Total: 3.884500 ms (FindLiveObjects: 0.461800 ms CreateObjectMapping: 0.343000 ms MarkObjects: 2.940600 ms  DeleteObjects: 0.138000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 224.032971 seconds.
+  path: Assets/Scripts/TilesSpawner.cs
+  artifactKey: Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TilesSpawner.cs using Guid(6c2892b62705cea4da487181eaa35490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36645c966e51230031b4b457df1f9315') in 0.005909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.427805 seconds.
+  path: Assets/Scripts/BackgroundSpawner.cs
+  artifactKey: Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BackgroundSpawner.cs using Guid(7911c4df628768d4086fbad17bad7300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67839a4bb3acd264714fe1c8ff20535c') in 0.002155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.124964 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(0a157a844bc08854c8aab5b452b46e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(0a157a844bc08854c8aab5b452b46e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '414c9d2961c314861f94671ba4e1a7f9') in 0.002177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 199.720340 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab
+  artifactKey: Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab using Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639bbb043715d561c2539fe78c5fa8a2') in 0.085950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.380235 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab
+  artifactKey: Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab using Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4eb5a13f9d15242217fbafc93b2055') in 0.013905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.970906 seconds.
+  path: Assets/Envir Prefabs/Autumn-backgroundlayer1-1-2048x1024(1x)-New.prefab
+  artifactKey: Guid(80bf256137b47814bb23876576f83703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Autumn-backgroundlayer1-1-2048x1024(1x)-New.prefab using Guid(80bf256137b47814bb23876576f83703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a752c26db698c4ff1425ccb464165756') in 0.017570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004246 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4049.
+Total: 4.272700 ms (FindLiveObjects: 0.351200 ms CreateObjectMapping: 0.299900 ms MarkObjects: 3.516800 ms  DeleteObjects: 0.103600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005209 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4054.
+Total: 3.679400 ms (FindLiveObjects: 0.467600 ms CreateObjectMapping: 0.304300 ms MarkObjects: 2.805600 ms  DeleteObjects: 0.100900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004619 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.826 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4059.
+Total: 4.047800 ms (FindLiveObjects: 0.449900 ms CreateObjectMapping: 0.418700 ms MarkObjects: 3.069200 ms  DeleteObjects: 0.108900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004084 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.849 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4064.
+Total: 4.541000 ms (FindLiveObjects: 0.510800 ms CreateObjectMapping: 0.501900 ms MarkObjects: 3.422000 ms  DeleteObjects: 0.104900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.380664 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab
+  artifactKey: Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab using Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d8beca2f549e46038b5cccb33064fa') in 0.066535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.993401 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab
+  artifactKey: Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab using Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c7ee402f3feab77224d6e6684519be') in 0.010037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.495743 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab
+  artifactKey: Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512.prefab using Guid(b04b09c594498a54b9fd8d08ae23fba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4843d3a93ec7a483dcdd0620b2294c28') in 0.008779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.898030 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab
+  artifactKey: Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab using Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4c2c858621db6049612373912213a0') in 0.075659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.515458 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab
+  artifactKey: Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab using Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b29b9970a9c65450fdf129905ecd1b') in 0.009996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.976381 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab
+  artifactKey: Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab using Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04af37a529ff41f356d38c32a22b0069') in 0.009152 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004978 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4070.
+Total: 4.525100 ms (FindLiveObjects: 0.576900 ms CreateObjectMapping: 0.460900 ms MarkObjects: 3.343300 ms  DeleteObjects: 0.142100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009711 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4075.
+Total: 4.497700 ms (FindLiveObjects: 0.355600 ms CreateObjectMapping: 0.298200 ms MarkObjects: 3.734900 ms  DeleteObjects: 0.107400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 220.173405 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab
+  artifactKey: Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant.prefab using Guid(fa8394ed51314bb479a1027b46f31fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c850c3225163b9012f9e46f1fdf63b') in 0.071943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.478755 seconds.
+  path: Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab
+  artifactKey: Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/obstacles/2DAutumn(Form1)-tilecolumn-512 Variant 1.prefab using Guid(9ed310f894258b14596bfcc7c12fa8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb4bd12729e4f2bf37ad2e5b0be2049') in 0.009321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.705687 seconds.
+  path: Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-3-1x.png
+  artifactKey: Guid(b6148e8fe5917b544806631433098f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-3-1x.png using Guid(b6148e8fe5917b544806631433098f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d30cdf9e5b3313739b010842bcba71') in 0.124653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-8-1x.png
+  artifactKey: Guid(7cfbae3b9e0a0944298170ba945d52cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-8-1x.png using Guid(7cfbae3b9e0a0944298170ba945d52cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa1b2d461bcc388a5741973dd16db60') in 0.019740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-5-1x.png
+  artifactKey: Guid(80453577da6803d438293d5ca4619d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-5-1x.png using Guid(80453577da6803d438293d5ca4619d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed5f6eeb1fcb53f38a4011c8f3ba29b9') in 0.036085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-7-1x.png
+  artifactKey: Guid(20caf01dacbb5e942be292817835ad3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Platform Game Assets Ultimate/Textures/Background And Environment/Background/Clouds/1x/Cloud-7-1x.png using Guid(20caf01dacbb5e942be292817835ad3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3d7b7d935379110959544c3f100a8f') in 0.023436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.302148 seconds.
+  path: Assets/Envir Prefabs/Clouds
+  artifactKey: Guid(481d9869aca619b46bd5d7170e1c001f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds using Guid(481d9869aca619b46bd5d7170e1c001f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deddf3d3db9277933fec89528c2f6ab5') in 0.006783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.503652 seconds.
+  path: Assets/Envir Prefabs/Clouds/Cloud-1-1x.prefab
+  artifactKey: Guid(91b3f42d9ec44f7408105832926c1962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds/Cloud-1-1x.prefab using Guid(91b3f42d9ec44f7408105832926c1962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8e10fbfb6734ff5adf52b9bcd56c94') in 0.014655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.208018 seconds.
+  path: Assets/Envir Prefabs/Clouds/Cloud-2-1x.prefab
+  artifactKey: Guid(1dbf733d6179260419ff0fd1c275b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds/Cloud-2-1x.prefab using Guid(1dbf733d6179260419ff0fd1c275b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e5633bc7de8da0093522793bdb5034') in 0.016145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.535076 seconds.
+  path: Assets/Envir Prefabs/Clouds/Cloud_2.prefab
+  artifactKey: Guid(29aa0358be246384da2596e8a3561d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds/Cloud_2.prefab using Guid(29aa0358be246384da2596e8a3561d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a790d25830af16ebf7de0de847ad9005') in 0.013531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.349248 seconds.
+  path: Assets/Envir Prefabs/Clouds/Cloud-4-1x.prefab
+  artifactKey: Guid(9649d83a8ec559b43a797afdcd19cc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds/Cloud-4-1x.prefab using Guid(9649d83a8ec559b43a797afdcd19cc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee3cda3e2d5cf4122303232c72fbb26') in 0.013136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.816865 seconds.
+  path: Assets/Envir Prefabs/Clouds/Cloud-5-1x.prefab
+  artifactKey: Guid(febe92aa4d56ffc4da06fd5573c17d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Envir Prefabs/Clouds/Cloud-5-1x.prefab using Guid(febe92aa4d56ffc4da06fd5573c17d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13450e4c9f99af6420ac2365774891fe') in 0.013116 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005208 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.901 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3572 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.0 MB.
+System memory in use after: 153.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4150.
+Total: 4.317600 ms (FindLiveObjects: 0.430300 ms CreateObjectMapping: 0.458800 ms MarkObjects: 3.276300 ms  DeleteObjects: 0.150900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004921 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Unity Projects\Paid\Bayat\Bayyat runner\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.836 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3568 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.8 MB.
+System memory in use after: 152.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4155.
+Total: 4.451600 ms (FindLiveObjects: 0.294300 ms CreateObjectMapping: 0.275100 ms MarkObjects: 3.770600 ms  DeleteObjects: 0.110100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
